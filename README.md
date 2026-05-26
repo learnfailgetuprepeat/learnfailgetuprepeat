@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Mumbi! 🙃👋
 
-<!--
-**learnfailgetuprepeat/learnfailgetuprepeat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a student specializing in Mathematics and Computer Science and Data Analytics. Right now, I am focusing on building deep foundations in data analysis, complex spreadsheet logic, and structured problem-solving.
 
-Here are some ideas to get you started:
+### 🎯 Current Focus Areas
+- 📊 Mastering advanced data transformations and structured arrays.
+- 🐍 Learning the fundamentals of data analysis workflows.
+- ⚙️ Building daily discipline and self-trust through time-blocked learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 My Learning Log (Projects in Progress)
+*   **[Topic / Concept Name]** - *In Progress*
+    - **What I'm doing:** Learning how to clean disorganized data and structure logical conditions.
+    - **What I've learned so far:** How to use multi-conditional logic to solve data tracking problems efficiently.
+
+### 🤝 Connect with Me
+- **LinkedIn:** www.linkedin.com/in/paulinemuriithimumbi
+
+- **Email:** muriithimumbi1@gmail.com
